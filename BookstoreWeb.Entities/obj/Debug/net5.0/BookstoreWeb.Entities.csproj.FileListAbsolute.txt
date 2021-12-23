@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Entities\obj\Debug\net5.0\BookstoreWeb.Entities.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Entities\obj\Debug\net5.0\BookstoreWeb.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Entities\obj\Debug\net5.0\BookstoreWeb.Entities.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Entities\obj\Debug\net5.0\BookstoreWeb.Entities.AssemblyInfo.cs
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Entities\obj\Debug\net5.0\BookstoreWeb.Entities.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Entities\bin\Debug\net5.0\BookstoreWeb.Entities.deps.json
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Entities\bin\Debug\net5.0\BookstoreWeb.Entities.dll
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Entities\bin\Debug\net5.0\ref\BookstoreWeb.Entities.dll
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Entities\bin\Debug\net5.0\BookstoreWeb.Entities.pdb
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Entities\bin\Debug\net5.0\BookstoreWeb.Shared.dll
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Entities\bin\Debug\net5.0\BookstoreWeb.Shared.pdb
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Entities\obj\Debug\net5.0\BookstoreWeb.Entities.csproj.CopyComplete
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Entities\obj\Debug\net5.0\BookstoreWeb.Entities.dll
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Entities\obj\Debug\net5.0\ref\BookstoreWeb.Entities.dll
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Entities\obj\Debug\net5.0\BookstoreWeb.Entities.pdb

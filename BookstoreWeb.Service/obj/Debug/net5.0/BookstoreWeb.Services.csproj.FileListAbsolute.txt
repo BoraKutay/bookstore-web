@@ -1,0 +1,5 @@
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Services\obj\Debug\net5.0\BookstoreWeb.Services.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Services\obj\Debug\net5.0\BookstoreWeb.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Services\obj\Debug\net5.0\BookstoreWeb.Services.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Services\obj\Debug\net5.0\BookstoreWeb.Services.AssemblyInfo.cs
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Services\obj\Debug\net5.0\BookstoreWeb.Services.csproj.CoreCompileInputs.cache

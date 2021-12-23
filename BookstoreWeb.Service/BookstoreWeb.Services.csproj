@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookstoreWeb.Data\BookstoreWeb.Data.csproj" />
+    <ProjectReference Include="..\BookstoreWeb.Entities\BookstoreWeb.Entities.csproj" />
+    <ProjectReference Include="..\BookstoreWeb.Shared\BookstoreWeb.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Shared\bin\Debug\net5.0\BookstoreWeb.Shared.deps.json
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Shared\bin\Debug\net5.0\BookstoreWeb.Shared.dll
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Shared\bin\Debug\net5.0\ref\BookstoreWeb.Shared.dll
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Shared\bin\Debug\net5.0\BookstoreWeb.Shared.pdb
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Shared\obj\Debug\net5.0\BookstoreWeb.Shared.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Shared\obj\Debug\net5.0\BookstoreWeb.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Shared\obj\Debug\net5.0\BookstoreWeb.Shared.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Shared\obj\Debug\net5.0\BookstoreWeb.Shared.AssemblyInfo.cs
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Shared\obj\Debug\net5.0\BookstoreWeb.Shared.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Shared\obj\Debug\net5.0\BookstoreWeb.Shared.dll
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Shared\obj\Debug\net5.0\ref\BookstoreWeb.Shared.dll
+C:\Users\asus\source\repos\BookstoreWeb\BookstoreWeb.Shared\obj\Debug\net5.0\BookstoreWeb.Shared.pdb
